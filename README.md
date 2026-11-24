@@ -19,7 +19,22 @@ Desenvolvedor Full Stack em Natal/RN. Atuo na **SESAP-RN** com Python, Django RE
 
 </details>
 
-**Stack:** `Python` · `Django REST` · `FastAPI` · `Java` · `Spring Boot` · `TypeScript` · `React` · `React Native` · `Angular` · `PostgreSQL` · `Docker` · `Linux`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-131614?style=flat-square&logo=python&logoColor=6EC492" alt="Python" />
+  <img src="https://img.shields.io/badge/Django_REST-131614?style=flat-square&logo=django&logoColor=6EC492" alt="Django REST" />
+  <img src="https://img.shields.io/badge/FastAPI-131614?style=flat-square&logo=fastapi&logoColor=6EC492" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-131614?style=flat-square&logo=openjdk&logoColor=6EC492" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-131614?style=flat-square&logo=springboot&logoColor=6EC492" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-131614?style=flat-square&logo=typescript&logoColor=6EC492" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-131614?style=flat-square&logo=react&logoColor=6EC492" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-131614?style=flat-square&logo=react&logoColor=6EC492" alt="React Native" />
+  <img src="https://img.shields.io/badge/Angular-131614?style=flat-square&logo=angular&logoColor=6EC492" alt="Angular" />
+  <img src="https://img.shields.io/badge/PostgreSQL-131614?style=flat-square&logo=postgresql&logoColor=6EC492" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-131614?style=flat-square&logo=docker&logoColor=6EC492" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-131614?style=flat-square&logo=linux&logoColor=6EC492" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitLab-131614?style=flat-square&logo=gitlab&logoColor=6EC492" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Nginx-131614?style=flat-square&logo=nginx&logoColor=6EC492" alt="Nginx" />
+</p>
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=bruno-diasz&show_icons=true&hide_rank=true&bg_color=131614&title_color=6EC492&text_color=F1EFE7&icon_color=6EC492&border_color=2E3530" alt="GitHub stats" />
