@@ -20,20 +20,20 @@ Desenvolvedor Full Stack em Natal/RN. Atuo na **SESAP-RN** com Python, Django RE
 </details>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-131614?style=flat-square&logo=python&logoColor=6EC492" alt="Python" />
-  <img src="https://img.shields.io/badge/Django_REST-131614?style=flat-square&logo=django&logoColor=6EC492" alt="Django REST" />
-  <img src="https://img.shields.io/badge/FastAPI-131614?style=flat-square&logo=fastapi&logoColor=6EC492" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-131614?style=flat-square&logo=openjdk&logoColor=6EC492" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-131614?style=flat-square&logo=springboot&logoColor=6EC492" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/TypeScript-131614?style=flat-square&logo=typescript&logoColor=6EC492" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-131614?style=flat-square&logo=react&logoColor=6EC492" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-131614?style=flat-square&logo=react&logoColor=6EC492" alt="React Native" />
-  <img src="https://img.shields.io/badge/Angular-131614?style=flat-square&logo=angular&logoColor=6EC492" alt="Angular" />
-  <img src="https://img.shields.io/badge/PostgreSQL-131614?style=flat-square&logo=postgresql&logoColor=6EC492" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-131614?style=flat-square&logo=docker&logoColor=6EC492" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-131614?style=flat-square&logo=linux&logoColor=6EC492" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitLab-131614?style=flat-square&logo=gitlab&logoColor=6EC492" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Nginx-131614?style=flat-square&logo=nginx&logoColor=6EC492" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Python-131614?style=flat&logo=python&logoColor=6EC492" alt="Python" />
+  <img src="https://img.shields.io/badge/Django_REST-131614?style=flat&logo=django&logoColor=6EC492" alt="Django REST" />
+  <img src="https://img.shields.io/badge/FastAPI-131614?style=flat&logo=fastapi&logoColor=6EC492" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-131614?style=flat&logo=openjdk&logoColor=6EC492" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-131614?style=flat&logo=springboot&logoColor=6EC492" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-131614?style=flat&logo=typescript&logoColor=6EC492" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-131614?style=flat&logo=react&logoColor=6EC492" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-131614?style=flat&logo=react&logoColor=6EC492" alt="React Native" />
+  <img src="https://img.shields.io/badge/Angular-131614?style=flat&logo=angular&logoColor=6EC492" alt="Angular" />
+  <img src="https://img.shields.io/badge/PostgreSQL-131614?style=flat&logo=postgresql&logoColor=6EC492" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-131614?style=flat&logo=docker&logoColor=6EC492" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-131614?style=flat&logo=linux&logoColor=6EC492" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitLab-131614?style=flat&logo=gitlab&logoColor=6EC492" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Nginx-131614?style=flat&logo=nginx&logoColor=6EC492" alt="Nginx" />
 </p>
 
 <p align="left">
