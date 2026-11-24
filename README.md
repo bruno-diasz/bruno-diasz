@@ -9,8 +9,7 @@ Building healthcare software at **SESAP-RN** (Python, Django REST, React Native)
 <details>
 <summary>PT-BR</summary>
 
-Desenvolvedor Full Stack em Natal/RN. Atuo na **SESAP-RN** com Python, Django REST Framework e React Native, e no projeto **[Na Ponta do Lápis](https://napontadolapis.app)** (Spring Boot, Angular, Ionic/Capacitor, Open Finance via Pluggy e IA no modelo BYOK). Mais detalhes e currículo em [diasz.me](https://diasz.me).
-
+Desenvolvedor Full Stack em Natal/RN. Atuo na **SESAP-RN** com Python, Django REST Framework e React Native, e no projeto **[Na Ponta do Lápis](https://napontadolapis.app)** (Spring Boot, Angular, Ionic/Capacitor, Open Finance via Pluggy e IA no modelo BYOK).
 </details>
 
 <p align="left">
